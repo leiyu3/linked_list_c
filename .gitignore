@@ -2,4 +2,5 @@ a.out
 linked_list_test*
 *.a
 *.o
+!*.c
 
